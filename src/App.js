@@ -3,7 +3,7 @@ import './App.css';
 
 class App extends React.Component {
   componentDidMount() {
-    // Implemente sua lógica aqui
+    // Implemente sua lógica aqui.
   }
 
   shouldComponentUpdate(/* nextProps, nextState */) {
